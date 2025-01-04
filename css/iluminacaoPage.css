@@ -1,0 +1,785 @@
+.pagina-iluminacao {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .pagina-iluminacao .div {
+    background-color: #ffffff;
+    width: 1920px;
+    height: 2112px;
+    position: relative;
+  }
+  
+  .pagina-iluminacao .footer {
+    position: absolute;
+    width: 1920px;
+    height: 506px;
+    top: 1606px;
+    left: 0;
+  }
+  
+  .pagina-iluminacao .text-wrapper {
+    position: absolute;
+    width: 231px;
+    top: 0;
+    left: 33px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 38px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .mais-vendidos {
+    position: absolute;
+    width: 1331px;
+    height: 456px;
+    top: 1027px;
+    left: 288px;
+  }
+  
+  .pagina-iluminacao .produto {
+    position: absolute;
+    width: 264px;
+    height: 371px;
+    top: 84px;
+    left: 1073px;
+  }
+  
+  .pagina-iluminacao .overlap-group {
+    position: absolute;
+    width: 198px;
+    height: 104px;
+    top: 267px;
+    left: 29px;
+  }
+  
+  .pagina-iluminacao .LA-REDOUTE {
+    width: 198px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .span {
+    font-weight: 700;
+  }
+  
+  .pagina-iluminacao .text-wrapper-2 {
+    font-weight: 500;
+    font-size: 11px;
+  }
+  
+  .pagina-iluminacao .text-wrapper-3 {
+    width: 64px;
+    top: 57px;
+    left: 37px;
+    font-weight: 500;
+    text-decoration: line-through;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .text-wrapper-4 {
+    width: 63px;
+    top: 80px;
+    left: 66px;
+    font-weight: 600;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .text-wrapper-5 {
+    left: 111px;
+    position: absolute;
+    width: 46px;
+    top: 57px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .image {
+    width: 256px;
+    height: 267px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .pagina-iluminacao .produto-2 {
+    position: absolute;
+    width: 267px;
+    height: 371px;
+    top: 84px;
+    left: 805px;
+  }
+  
+  .pagina-iluminacao .overlap {
+    position: absolute;
+    width: 237px;
+    height: 104px;
+    top: 267px;
+    left: 10px;
+  }
+  
+  .pagina-iluminacao .p {
+    width: 237px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .text-wrapper-6 {
+    font-size: 11px;
+  }
+  
+  .pagina-iluminacao .text-wrapper-7 {
+    width: 64px;
+    top: 57px;
+    left: 57px;
+    font-weight: 500;
+    text-decoration: line-through;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .text-wrapper-8 {
+    width: 59px;
+    top: 80px;
+    left: 88px;
+    font-weight: 600;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .text-wrapper-9 {
+    left: 131px;
+    position: absolute;
+    width: 46px;
+    top: 57px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .img {
+    width: 259px;
+    height: 246px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .pagina-iluminacao .produto-3 {
+    position: absolute;
+    width: 264px;
+    height: 371px;
+    top: 84px;
+    left: 537px;
+  }
+  
+  .pagina-iluminacao .overlap-2 {
+    position: absolute;
+    width: 256px;
+    height: 104px;
+    top: 267px;
+    left: 0;
+  }
+  
+  .pagina-iluminacao .LA-REDOUTE-2 {
+    position: absolute;
+    width: 256px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .text-wrapper-10 {
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+  }
+  
+  .pagina-iluminacao .text-wrapper-11 {
+    position: absolute;
+    width: 70px;
+    top: 57px;
+    left: 63px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: line-through;
+  }
+  
+  .pagina-iluminacao .text-wrapper-12 {
+    width: 65px;
+    top: 80px;
+    left: 94px;
+    font-weight: 600;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .text-wrapper-13 {
+    position: absolute;
+    width: 45px;
+    top: 57px;
+    left: 141px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .image-2 {
+    width: 256px;
+    height: 246px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .pagina-iluminacao .produto-4 {
+    position: absolute;
+    width: 264px;
+    height: 371px;
+    top: 84px;
+    left: 266px;
+  }
+  
+  .pagina-iluminacao .image-3 {
+    width: 256px;
+    height: 245px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .pagina-iluminacao .produto-5 {
+    position: absolute;
+    width: 260px;
+    height: 371px;
+    top: 84px;
+    left: 0;
+  }
+  
+  .pagina-iluminacao .image-4 {
+    width: 252px;
+    height: 246px;
+    position: absolute;
+    top: 0;
+    left: 20px;
+    object-fit: cover;
+  }
+  
+  .pagina-iluminacao .overlap-3 {
+    position: absolute;
+    width: 215px;
+    height: 104px;
+    top: 267px;
+    left: 21px;
+  }
+  
+  .pagina-iluminacao .LA-REDOUTE-3 {
+    width: 215px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .text-wrapper-14 {
+    width: 63px;
+    top: 57px;
+    left: 46px;
+    font-weight: 500;
+    text-decoration: line-through;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .text-wrapper-15 {
+    width: 60px;
+    top: 80px;
+    left: 76px;
+    font-weight: 600;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .text-wrapper-16 {
+    left: 120px;
+    position: absolute;
+    width: 46px;
+    top: 57px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .text-wrapper-17 {
+    position: absolute;
+    width: 298px;
+    top: 0;
+    left: 32px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 38px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .text-wrapper-18 {
+    position: absolute;
+    top: 0;
+    left: 33px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 38px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .coleo-ilum {
+    position: absolute;
+    width: 1318px;
+    height: 618px;
+    top: 271px;
+    left: 289px;
+  }
+  
+  .pagina-iluminacao .frame {
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 14px;
+    position: absolute;
+    top: 88px;
+    left: 0;
+    border-radius: 6px;
+  }
+  
+  .pagina-iluminacao .apliques-parede {
+    position: relative;
+    width: 437px;
+    height: 537px;
+    margin-bottom: -7.36px;
+    margin-left: -4px;
+    filter: brightness(80%);
+  }
+  
+  .pagina-iluminacao .cand-susp {
+    position: relative;
+    width: 437.29px;
+    height: 537.64px;
+    margin-bottom: -8px;
+    filter: brightness(70%);
+  }
+  
+  .pagina-iluminacao .cand-mesa {
+    position: relative;
+    width: 437.58px;
+    height: 537.64px;
+    margin-bottom: -8px;
+    margin-right: -4px;
+    filter: brightness(80%);
+  }
+  
+  .pagina-iluminacao .navbar {
+    position: absolute;
+    width: 1920px;
+    height: 236px;
+    top: 0;
+    left: 0;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .pagina-iluminacao .overlap-4 {
+    position: relative;
+    height: 205px;
+    background-color: #ffffff;
+
+  }
+  
+
+  .pagina-iluminacao .text-wrapper-19 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    margin-bottom: -9px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #f54141;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .top-vendas {
+    display: flex;
+    width: 171px;
+    height: 27px;
+    align-items: flex-start;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 126px;
+    left: 527px;
+    border-radius: 20px;
+  }
+  
+  
+  .pagina-iluminacao .marcas {
+    display: flex;
+    width: 108px;
+    height: 27px;
+    align-items: flex-start;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 126px;
+    left: 860px;
+    border-radius: 20px;
+  }
+  
+  .pagina-iluminacao .text-wrapper-20 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    margin-bottom: -9px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000e6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .iluminacao {
+    display: flex;
+    width: 114px;
+    height: 27px;
+    align-items: flex-start;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 126px;
+    left: 715px;
+    border-radius: 20px;
+  }
+  
+  .pagina-iluminacao .outlet {
+    display: flex;
+    width: 80px;
+    height: 27px;
+    align-items: flex-start;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 126px;
+    left: 436px;
+    border-radius: 20px;
+  }
+  
+  
+  .pagina-iluminacao .logo-laredoute {
+    position: absolute;
+    width: 139px;
+    height: 139px;
+    top: 36px;
+    left: 48px;
+    object-fit: cover;
+  }
+  
+  .pagina-iluminacao .overlap-5 {
+    position: absolute;
+    width: 1215px;
+    height: 64px;
+    top: 36px;
+    left: 257px;
+    background-color: #f6f7f9;
+    border-radius: 37px;
+  }
+  
+  .pagina-iluminacao .imagem-lupa {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 16px;
+    left: 25px;
+    object-fit: cover;
+  }
+  
+  .pagina-iluminacao .text-wrapper-21 {
+    position: absolute;
+    width: 145px;
+    top: 17px;
+    left: 71px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #00000080;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .iconsax-linear-user {
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    top: 47px;
+    left: 1515px;
+  }
+  
+  .pagina-iluminacao .text-wrapper-22 {
+    position: absolute;
+    width: 155px;
+    top: 52px;
+    left: 1577px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    color: #000000e6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pagina-iluminacao .iconsax-linear-heart {
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    top: 47px;
+    left: 1769px;
+  }
+  
+  .pagina-iluminacao .imagem-saco-compras {
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    top: 41px;
+    left: 1840px;
+    object-fit: cover;
+  }
+  
+  .pagina-iluminacao .button-menu {
+    position: absolute;
+    width: 140px;
+    height: 53px;
+    top: 120px;
+    left: 257px;
+  }
+  
+  .pagina-iluminacao .overlap-group-2 {
+    position: relative;
+    width: 138px;
+    height: 53px;
+    background-color: #000000d6;
+    border-radius: 55px;
+  }
+  
+  .pagina-iluminacao .iconsax-linear {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 11px;
+    left: 19px;
+  }
+  
+  .pagina-iluminacao .text-wrapper-23 {
+    position: absolute;
+    width: 55px;
+    top: 13px;
+    left: 60px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .pagina-iluminacao .button:hover {
+    transition: filter 0.1s ease-in-out;
+    filter: drop-shadow(-1px 6px 3px rgba(50, 50, 0, 0.5));
+    z-index: 1;
+  }
+
+  .pagina-iluminacao .text-wrapper-24{
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #f6f7f9;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    z-index: 1;
+    filter: drop-shadow(-1px 4px 3px rgba(50, 50, 0, 0.5));
+    top: 480px;
+    left: 20px;
+  }
+  
+  .pagina-iluminacao .text-wrapper-25{
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #f6f7f9;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    z-index: 1;
+    filter: drop-shadow(-1px 4px 3px rgba(50, 50, 0, 0.5));
+    top: 480px;
+    left: 460px;
+  }
+
+  .pagina-iluminacao .text-wrapper-26{
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #f6f7f9;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    z-index: 1;
+    filter: drop-shadow(-1px 4px 3px rgba(50, 50, 0, 0.5));
+    top: 480px;
+    left: 920px;
+  }
+
+  .pagina-iluminacao .seta-1{
+    position: absolute;
+    z-index: 1;
+    scale: 0.2;
+    top: 380px;
+    left: 270px;
+  }
+
+  .pagina-iluminacao .seta-2{
+    position: absolute;
+    z-index: 1;
+    scale: 0.2;
+    top: 380px;
+    left: 720px;
+  }
+
+  .pagina-iluminacao .seta-3{
+    position: absolute;
+    z-index: 1;
+    scale: 0.2;
+    top: 380px;
+    left: 1170px;
+  }
+
+  .pagina-iluminacao .seta-1:hover{
+    transition: filter 0.1s ease-in-out;
+    filter: drop-shadow(-1px 6px 10px rgba(49, 49, 49, 0.82));
+  }
+
+  .pagina-iluminacao .seta-2:hover{
+    transition: filter 0.1s ease-in-out;
+    filter: drop-shadow(-1px 6px 10px rgba(49, 49, 49, 0.82));
+  }
+
+  .pagina-iluminacao .seta-3:hover{
+    transition: filter 0.1s ease-in-out;
+    filter: drop-shadow(-1px 6px 10px rgba(49, 49, 49, 2));
+  }
+
+
